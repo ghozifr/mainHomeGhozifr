@@ -14,7 +14,7 @@ const addi = (a,b) => {
     return a + b
 }
 
-console.log(addi(1,5))
+//console.log(addi(1,5))
 //
 //
 // Asysnchtonous Concepts
@@ -35,4 +35,12 @@ testLuck.then(message => {
 })
 //
 //
-// Async/Await
+// Async/Await IN MAC
+
+
+//// Running a Program with Node
+
+let yourName = 'Ghozi'
+let verb = 'coding'
+
+console.log(`My friend ${yourName} is good at ${verb}.`)
