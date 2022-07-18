@@ -8,4 +8,4 @@ const allnames = {name1, name2}
 
 module.exports = {name1, name2, allnames}
 
-console.log(allnames)
+// console.log(allnames)
